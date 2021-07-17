@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ngx-marquee-use-cases';
+  title = 'Use Cases for ngx-marquee';
 }
